@@ -2,7 +2,6 @@
 # include <cstdlib>
 using namespace std;
 
-
 int main()
 {
 	srand(0);
@@ -21,6 +20,6 @@ int main()
 		dev += pow(score[n] - mean, 2);
 	}
 	dev = sqrt(dev / sz);
-	cout << "ƽ���ɼ�=" << mean << endl << "��׼��=" << dev;
+	cout << "Æ½¾ù³É¼¨=" << mean << endl << "±ê×¼²î=" << dev;
 	return 0;
 }
