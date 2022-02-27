@@ -1,0 +1,3 @@
+﻿  QD3.9.cpp
+D:\VS\ConsoleApplication\QD-3.9\QD3.9.cpp(11,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  QD-3.9.vcxproj -> D:\VS\ConsoleApplication\Debug\QD-3.9.exe
