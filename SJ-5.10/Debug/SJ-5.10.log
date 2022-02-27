@@ -1,0 +1,4 @@
+﻿  SJ-5.10.cpp
+D:\VS\ConsoleApplication\SJ-5.10\SJ-5.10.cpp(11,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VS\ConsoleApplication\SJ-5.10\function.h(12): warning C4715: “Pn”: 不是所有的控件路径都返回值
+  SJ-5.10.vcxproj -> D:\VS\ConsoleApplication\Debug\SJ-5.10.exe
