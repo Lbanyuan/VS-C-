@@ -1,0 +1,5 @@
+﻿  Fraction.cpp
+  main.cpp
+  正在生成代码...
+D:\VS\ConsoleApplication\Project7-1\Fraction.cpp(14): warning C4715: “Fraction::gcd”: 不是所有的控件路径都返回值
+  Project7-1.vcxproj -> D:\VS\ConsoleApplication\x64\Debug\Project7-1.exe
